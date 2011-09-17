@@ -55,7 +55,7 @@ public class Launcher
 	public static void main(String [] args)
 	{
 		boolean done = false;
-		System.out.println("Minecraft Version Chooser");
+		System.out.println("Minecraft Version Chooser version 1.0 by Cannabeuh & Tickleman");
 		System.out.println("-------------------------");
 		System.out.println("");
 		System.out.println("7 : Minecraft 1.7.3");
